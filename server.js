@@ -199,7 +199,7 @@ server.post('/forgetPass',(req,res)=>{
                 service:'gmail',
                 auth:{
                     user:'webchatap@gmail.com',
-                    pass:'jaimatade123'
+                    pass:'***********'
                 }
             }) 
             const mailoptions={
